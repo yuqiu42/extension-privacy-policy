@@ -1,4 +1,4 @@
-# Privacy Policy for Finite
+# Privacy Policy
 
 This Privacy Policy outlines how finite (hereinafter referred to as "the extension," "we," or "us") handles user information. Please read this document carefully to understand our practices regarding your data and how we safeguard your privacy.
 
